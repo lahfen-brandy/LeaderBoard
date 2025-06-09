@@ -6,7 +6,7 @@ LeaderBoard est une application servant de comparateur
 ## Features
 
 - **Add New Scores**: Easily add new scores to the leaderboard.
-- **View Rankings**: Display the current rankings in an organized manner
+- **View Rankings**: Display the current rankings in an organized manner.
 - **Update and Delete**: Modify or remove existing scores.
 
 ## Getting Started
